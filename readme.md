@@ -1,4 +1,4 @@
-Error getting preview# 🧠 Multimodal Emotion Recognition System
+# 🧠 Multimodal Emotion Recognition System
 
 A complete AI-based system that detects human emotions using **Text + Facial Expressions** in real-time.
 This project combines **Natural Language Processing (NLP)** and **Computer Vision (CV)** to improve emotion detection accuracy through a multimodal approach.
@@ -94,7 +94,7 @@ EmotionAI/
 ### 🔹 1. Clone Repository
 
 ```
-git clone https://github.com/your-username/EmotionAI.git
+git clone https://github.com/vasudev1876961/EmotionAI.git
 cd EmotionAI
 ```
 
